@@ -13,7 +13,6 @@ const About = () => {
       <div className="container">
         <Reveal>
           <div className="section-head">
-            <span className="comment"><b>01</b> about</span>
             <h2 className="section-heading">Developer who tests what he builds</h2>
           </div>
         </Reveal>

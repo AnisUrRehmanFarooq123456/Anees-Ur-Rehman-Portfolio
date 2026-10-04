@@ -6,7 +6,6 @@ const Contact = () => {
       <div className="container">
         <Reveal>
           <div className="glass contact-box">
-            <span className="comment"><b>06</b> contact</span>
             <h2 className="section-heading gradient-text">Let&apos;s work together</h2>
             <p className="lead">
               Looking for a MERN stack developer or someone who cares about

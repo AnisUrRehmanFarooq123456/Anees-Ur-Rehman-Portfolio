@@ -41,7 +41,6 @@ const Education = () => {
             <div className="container">
                 <Reveal>
                     <div className="section-head">
-                        <span className="comment"><b>06</b> education</span>
                         <h2 className="section-heading">Education</h2>
                     </div>
                 </Reveal>

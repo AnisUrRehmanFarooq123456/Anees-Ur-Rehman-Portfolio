@@ -45,7 +45,6 @@ const Experience = () => {
       <div className="container">
         <Reveal>
           <div className="section-head">
-            <span className="comment"><b>05</b> experience</span>
             <h2 className="section-heading">Teaching and work experience</h2>
           </div>
         </Reveal>
