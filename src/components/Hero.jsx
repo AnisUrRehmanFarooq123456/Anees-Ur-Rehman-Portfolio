@@ -35,7 +35,10 @@ const Hero = () => {
                 WhatsApp
               </a>
               <a href="mailto:anees2217117@gmail.com" className="btn btn-secondary">
-                Email Me
+                Gmail
+              </a>
+              <a href="mailto:aneesurrehmanfarooq@outlook.com" className="btn btn-secondary">
+                Outlook
               </a>
             </div>
 
