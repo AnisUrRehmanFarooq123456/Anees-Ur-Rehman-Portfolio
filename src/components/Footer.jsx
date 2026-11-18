@@ -16,9 +16,6 @@ const Contact = () => {
               <a href="mailto:anees2217117@gmail.com" className="btn btn-primary">
                 Gmail
               </a>
-              <a href="mailto:aneesurrehmanfarooq@outlook.com" className="btn btn-secondary">
-                Outlook
-              </a>
               <a href="https://wa.me/923022217117" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">
                 WhatsApp
               </a>

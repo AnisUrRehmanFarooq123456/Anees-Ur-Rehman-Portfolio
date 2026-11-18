@@ -37,9 +37,6 @@ const Hero = () => {
               <a href="mailto:anees2217117@gmail.com" className="btn btn-secondary">
                 Gmail
               </a>
-              <a href="mailto:aneesurrehmanfarooq@outlook.com" className="btn btn-secondary">
-                Outlook
-              </a>
             </div>
 
             <dl className="facts">

@@ -32,7 +32,6 @@ const groups = [
       { name: "Manual Testing", color: "#d97706" },
       { name: "Test Case Writing", color: "#fb7185" },
       { name: "Bug Reporting", color: "#fb7185" },
-      { name: "Exploratory Testing", color: "#b48cf2" },
       { name: "API Testing (Postman)", color: "#ff8a4c" },
       { name: "Cross-device Testing", color: "#34d8c4" },
     ],

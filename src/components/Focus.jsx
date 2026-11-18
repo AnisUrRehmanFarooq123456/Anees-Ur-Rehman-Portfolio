@@ -19,7 +19,7 @@ const panels = [
     color: "var(--amber)",
     text: "I look at software the way a tester does: what could go wrong, for whom, and how do we catch it before users do.",
     points: [
-      "Manual and exploratory testing of web apps",
+      "Manual testing of web apps",
       "Writing test cases covering valid, invalid and edge inputs",
       "Clear bug reports with steps to reproduce",
       "API testing and cross-device responsive checks",
